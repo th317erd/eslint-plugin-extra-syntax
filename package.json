@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-extra-syntax",
+  "version": "1.0.0",
+  "description": "Plugin adding extra syntax rules to ESLint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/th317erd/eslint-plugin-extra-syntax.git"
+  },
+  "keywords": [
+    "eslint",
+    "plugin"
+  ],
+  "author": "Wyatt Greenway",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/th317erd/eslint-plugin-extra-syntax/issues"
+  },
+  "homepage": "https://github.com/eslint-plugin-extra-syntax#readme"
+}
